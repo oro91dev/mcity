@@ -8,7 +8,7 @@ const config = {
     databaseURL: "https://m-city-af4ee.firebaseio.com",
     projectId: "m-city-af4ee",
     storageBucket: "m-city-af4ee.appspot.com",
-    messagingSenderId: "745606049796"
+    messagingSenderId: ""
   };
 
   firebase.initializeApp(config);
